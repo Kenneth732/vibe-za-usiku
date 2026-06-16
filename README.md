@@ -1,4 +1,4 @@
-# OnlyFun Kenya 🇰🇪
+# Vibe-Za-Usiku 🇰🇪
 
 <p align="center">
   <img src="./static/images/read.png" alt="OnlyFun Kenya Banner">
