@@ -55,7 +55,7 @@ The platform automatically handles:
 
 ---
 
-# 🇰🇪 Why OnlyFun Kenya?
+# 🇰🇪 Why Vibe-Za-Usiku ?
 
 Most global creator platforms do not support African payment systems properly.
 
@@ -215,7 +215,7 @@ Premium content unlocked
 # 📁 Project Structure
 
 ```text
-onlyfun_list/
+Vibe-Za-Usiku /
 │
 ├── onlyfun/
 │   ├── models.py
@@ -262,7 +262,7 @@ onlyfun_list/
 
 # 🔐 Security
 
-OnlyFun Kenya includes multiple production-grade security protections.
+Vibe-Za-Usiku  Kenya includes multiple production-grade security protections.
 
 ## Payment Security
 
